@@ -22,9 +22,3 @@ Javascript
 Node.js  
 MongoDB
 Mongoose
-
----  
-
-## Video
-
-https://drive.google.com/file/d/1RSsPpkHVA-VhsffTu9kwZzYRfTHDiCE1/view?usp=sharing
